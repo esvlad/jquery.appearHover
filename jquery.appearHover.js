@@ -6,8 +6,8 @@
  */
  
 (function($){
-  $.fn.appearHover = function(options){
-   	options = $.extend({
+	$.fn.appearHover = function(options){
+   		options = $.extend({
 			timeout: 300,
 			class: false,
 			animate: 'fade',
