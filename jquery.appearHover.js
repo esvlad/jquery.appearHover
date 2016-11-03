@@ -3,6 +3,7 @@
  * https://github.com/esvlad/jquery.appearHover/
  * Copyright (c) 2016 Startsev Vladislav
  * Licensed under the GNU General Public License (https://opensource.org/licenses/GPL-3.0)
+ * Version 1.0.0
  */
  
 (function($){
